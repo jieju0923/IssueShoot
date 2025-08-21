@@ -11,6 +11,8 @@ shooter就是issue认领人，他们追求精准、及时地解决issue，像箭
 
 注：贡献值可兑换礼品，腾讯贡献电子证书等，具体可关注每周期活动详情。
 
+<img src='[uploads/202310/XPtbM8tIRs3YCvLE.png](https://github.com/jieju0923/IssueShoot/blob/main/%E4%BC%81%E4%B8%9A%E6%8E%A8%E9%80%81.jpg)' width='500'>
+
 # IssueShoot任务大厅
 
 | 状态 | 项目       | 任务名称   |语言 | 难度       | 贡献力   | 期望完成时间               | 激励       | 认领人
