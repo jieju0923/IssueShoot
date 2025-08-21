@@ -23,7 +23,7 @@ shooter就是issue认领人，他们追求精准、及时地解决issue，像箭
 
 | 状态 | 项目       | 任务名称   |语言 | 难度       | 贡献力   | 期望完成时间               | 激励       | 认领人
 |------|------------|--------|------|------------|--------|--------------------|------------|--------------|
-| 招募中   | TencentOS | [【开发软件包测试用例】为软件包perl-Module-Install开发测试用例 ](https://git.woa.com/tlinux/TST/package-test/perl-Module-Install) | 不限  | 低     | 3.2  | 2025-9-1 | 电子证书 |    |
+| 招募中   | TencentOS | [【开发软件包测试用例】为软件包perl-Module-Install开发测试用例 ](https://github.com/Tencent/tdesign-vue/issues/3579) | 不限  | 低     | 3.2  | 2025-9-1 | 电子证书 |    |
 | 进行中    | TDesign | [提升Tree组件API测试覆盖](https://github.com/Tencent/tdesign-vue-next/issues/5631)    | TYPESCRIPT  | 中     | 2.0   | 2025-9-1   |电子证书 | jieju0923     |
 | 招募中    | tRPC | [trpc-java支持a2a协议](https://git.woa.com/trpc-java/trpc-java/issues/234)   | JAVA | 高   | 24.0   | 2025-9-1 | 电子证书 |    |
 
